@@ -1,2 +1,3 @@
 # helloWorld
-Starter repository
+This git stuff is starting to make sense!!!
+
